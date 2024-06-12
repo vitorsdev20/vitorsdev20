@@ -1,5 +1,5 @@
 
-## Olá, eu sou Vitor Sousa
+## Olá, eu sou Vitor de Sousa
 
 - 🔭 Atualmente faço parte de um projeto de aprendizagem na empresa Libbs Farmacêutica
 - 🌱 Cursando Técnico de Desenvolvimento de Sistemas
